@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">VendingMachine</string>
+    <string name="action_settings">Settings</string>
+    <string name="image_description">This is base image</string>
+    <string name="insert_money">Insert Money:</string>
+    <string name="current_balance">Current Balance: 0 cents</string>
+    <string name="change_balance">Change Balance:</string>
+    <string name="one_cent">1¢</string>
+    <string name="five_cent">5¢</string>
+    <string name="ten_cent">10¢</string>
+    <string name="twenty_five_cent">25¢</string>
+    <string name="one_dollar">$1</string>
+    <string name="five_dollar">$5</string>
+    <string name="dispense_button">Dispense</string>
+
+    <string-array name="item_list">
+        <item>Chip - $1.00</item>
+        <item>Soda - 50¢</item>
+        <item>Coffee - $2.00</item>
+        <item>Cancel</item>
+    </string-array>
+
+    <string name="insufficient_fund">Insufficient Fund</string>
+    <string name="out_of_stock">Out of Stock</string>
+    <string name="item_dispensed">Item dispensed</string>
+
+</resources>
